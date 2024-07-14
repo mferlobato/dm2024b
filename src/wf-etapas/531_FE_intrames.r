@@ -16,7 +16,7 @@ require("yaml")
 args <- commandArgs(trailingOnly=TRUE)
 source( paste0( args[1] , "/src/lib/action_lib.r" ) )
 
-#------------------------------------------------------------------------------
+#-----------------------------------------------------------------------------
 # Esta es la parte que los alumnos deben desplegar todo su ingenio
 # Agregar aqui sus PROPIAS VARIABLES manuales
 
