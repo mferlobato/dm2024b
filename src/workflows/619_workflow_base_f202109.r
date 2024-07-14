@@ -25,7 +25,7 @@ args <- commandArgs(trailingOnly=TRUE)
 envg$EXPENV$scriptname <- args[1]
 
 
-#------------------------------------------------------------------------------
+#-----------------------------------------------------------------------------
 # Error catching
 
 options(error = function() {
