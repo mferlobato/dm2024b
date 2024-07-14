@@ -106,7 +106,7 @@ drift_ambito <- function(campos_monetarios) {
   cat( "fin drift_ambito()\n")
 }
 
-#------------------------------------------------------------------------------
+#-----------------------------------------------------------------------------
 # Drift UVA
 # El valor del UVA del último día de cada mes
 # API: https://www.bcra.gob.ar/BCRAyVos/catalogo-de-APIs-banco-central.asp
